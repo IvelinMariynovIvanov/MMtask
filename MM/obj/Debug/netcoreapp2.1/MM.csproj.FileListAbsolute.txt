@@ -1,0 +1,11 @@
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\bin\Debug\netcoreapp2.1\MM.deps.json
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\bin\Debug\netcoreapp2.1\MM.runtimeconfig.json
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\bin\Debug\netcoreapp2.1\MM.runtimeconfig.dev.json
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\bin\Debug\netcoreapp2.1\MM.dll
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\bin\Debug\netcoreapp2.1\MM.pdb
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\obj\Debug\netcoreapp2.1\MM.csproj.CoreCompileInputs.cache
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\obj\Debug\netcoreapp2.1\MM.AssemblyInfoInputs.cache
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\obj\Debug\netcoreapp2.1\MM.AssemblyInfo.cs
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\obj\Debug\netcoreapp2.1\MM.dll
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\obj\Debug\netcoreapp2.1\MM.pdb
+C:\Users\ivelin\Documents\Visual Studio 2017\Projects\MM\MM\obj\Debug\netcoreapp2.1\MM.csprojAssemblyReference.cache
